@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 41f7770
+_src_path: https://github.com/getindata/first-steps-with-data-pipelines.git
+gcp_project_id: gid-labs-diz-core-dev
+pipeline_owner: DataOps Team
+project_description: Project for transforming data
+project_name: our_simple_project
+schedule_interval: 0 12 * * *
